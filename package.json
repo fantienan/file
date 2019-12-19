@@ -1,0 +1,16 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "文件上传和下载以及进度条",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fantienan/file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
